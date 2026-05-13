@@ -1,4 +1,0 @@
-DataGen
-SortAlgo
-sorted/
-Doxyfile
