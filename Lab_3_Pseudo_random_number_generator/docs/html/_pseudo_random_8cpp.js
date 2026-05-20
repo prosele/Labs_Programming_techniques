@@ -1,0 +1,27 @@
+var _pseudo_random_8cpp =
+[
+    [ "MLCG", "class_m_l_c_g.html", "class_m_l_c_g" ],
+    [ "Andxorshift", "class_andxorshift.html", "class_andxorshift" ],
+    [ "MXG521", "class_m_x_g521.html", "class_m_x_g521" ],
+    [ "SampleStats", "struct_sample_stats.html", "struct_sample_stats" ],
+    [ "StandardRand", "class_standard_rand.html", "class_standard_rand" ],
+    [ "computeStats", "_pseudo_random_8cpp.html#ad655fe4347424d2ea2a6fe9bd6c4ae0c", null ],
+    [ "erfc", "_pseudo_random_8cpp.html#a0b6c4cfae41124da64c9a2dcc09e6045", null ],
+    [ "generateBits", "_pseudo_random_8cpp.html#a2099e95222d3fe18d0bd85d5c6402bf5", null ],
+    [ "generateSample", "_pseudo_random_8cpp.html#a66d117a8d4ff064015568b237b324c07", null ],
+    [ "main", "_pseudo_random_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4", null ],
+    [ "measureGenerationTime", "_pseudo_random_8cpp.html#a814a07e427f0df0f3824f053d98f09cf", null ],
+    [ "nist_block_frequency", "_pseudo_random_8cpp.html#a6e1649e5522803277804470ab3fe1888", null ],
+    [ "nist_cusum", "_pseudo_random_8cpp.html#ac08978b2e016601d96f948e7da57052d", null ],
+    [ "nist_longest_run", "_pseudo_random_8cpp.html#a1d881f4dfd5a20497b1a1c264f1ec2ea", null ],
+    [ "nist_monobit", "_pseudo_random_8cpp.html#a49098e3887a1310c0476f7a7fad2a94c", null ],
+    [ "nist_runs", "_pseudo_random_8cpp.html#af94f7069d60a35e07f6a500fc789f16d", null ],
+    [ "p_value_from_chi2", "_pseudo_random_8cpp.html#ab55cbd12576c03f2b2e21c377e8069e9", null ],
+    [ "p_value_from_normal", "_pseudo_random_8cpp.html#a62493750d2d2b9c090e3c9ecf60c00d7", null ],
+    [ "BIN_SIZE", "_pseudo_random_8cpp.html#a49e0be6b18a90c58221f96ff8b3d537a", null ],
+    [ "CHI2_CRIT", "_pseudo_random_8cpp.html#acc1333a53debfec1f6a112d257439cf4", null ],
+    [ "K", "_pseudo_random_8cpp.html#a7b63ccc35ac484b9f41e37ccd0cb31bd", null ],
+    [ "NUM_SAMPLES", "_pseudo_random_8cpp.html#aba6cb037db93cd395e97699fab1e022e", null ],
+    [ "RANGE_SIZE", "_pseudo_random_8cpp.html#a5fefccc65be47d75576682015826c583", null ],
+    [ "SAMPLE_SIZE", "_pseudo_random_8cpp.html#abb438dd06eaa3add6a90ac8aae07eb3a", null ]
+];
